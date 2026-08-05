@@ -55,7 +55,7 @@ OpenShift Container Platform (OCP) and Linux Administrator with hands-on experie
 #### Technical Consultant *(Promoted from Intern Technical Consultant)*
 *Aug 2025 – Jan 2026*
 
-**L1.2 Technical Support Engineer — Bank of Baroda Client**
+**L1.2 Technical Support Engineer**
 - Designed and developed Grafana dashboards to monitor end-to-end infrastructure — applications, servers, and services — across a diverse tech stack including Tanzu, Kafka, Jenkins, Oracle DB, MongoDB, Redis, ELK Stack, and Tomcat.
 - Deployed and managed microservices-based applications using Jenkins CI/CD pipelines, ensuring smooth delivery to VMware Tanzu platform environments.
 - Performed L2 troubleshooting and incident resolution for production issues across Tanzu, ELK Stack, and application services, minimizing downtime and ensuring system stability.
@@ -64,8 +64,8 @@ OpenShift Container Platform (OCP) and Linux Administrator with hands-on experie
 - Monitored live production environments using Grafana and Prometheus, proactively identifying performance bottlenecks and system anomalies.
 - Collaborated with development and DevOps teams to support application releases, debugging, and performance tuning.
 
-**Linux System Administrator — MCX Client**
-- Managed 500+ Linux servers (RHEL & Ubuntu) across production environments.
+**Linux System Administrator**
+- Managed 500+ RHEL servers across production environments.
 - Performed system hardening and vulnerability remediation aligned with CIS benchmarks.
 - Handled patch management including major and minor OS upgrades with validation.
 - Automated routine administrative tasks using Ansible.
@@ -74,7 +74,7 @@ OpenShift Container Platform (OCP) and Linux Administrator with hands-on experie
 - Deployed and maintained Red Hat Satellite and Capsule servers for patching and repository management in disconnected environments.
 - Managed server registration, errata tracking, and patch lifecycle through Satellite.
 
-**OpenShift Administrator — Vodafone Client**
+**OpenShift Administrator**
 - Worked within a team responsible for OpenShift platform upgrades in a disconnected environment using the oc-mirror method via command line.
 - Created and managed YAML configurations for mirroring images required for the upgrade process.
 - Monitored the end-to-end upgrade process and handled first-level troubleshooting, resolving or escalating issues as needed.
